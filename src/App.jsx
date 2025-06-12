@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import HomePage from './components/Homepage';
+import HomePage from './components/HomePage';
 import { Route, Routes } from 'react-router-dom';
 import GoogleSheetForm from './components/GoogleSheetForm';
 import Header from './components/Header';
