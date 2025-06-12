@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+
 import { FaPython, FaJava, FaReact, FaJs, FaDatabase } from 'react-icons/fa';
 
 const HomePage = () => {
